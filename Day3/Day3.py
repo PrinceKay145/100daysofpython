@@ -6,3 +6,4 @@ so my codes are accessible only there for now..
 I also worked with logical operators "and", "or" and "not"...
 
 ''')
+https://replit.com/@PrinceKay145/treasure-island-start#main.py
